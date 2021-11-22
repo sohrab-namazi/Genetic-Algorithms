@@ -1,8 +1,10 @@
 # Genetic-Algorithm
 
-The PDF File explains all the code in details
+The PDF File explains all the code in detail
 
-> Solving TSP problem by genetic algorithm
+The Solutions are for:
 
-> Finding the root of a function (F) by genetic algorithms 
+* Solving TSP problem by genetic algorithm
+
+* Finding the root of a function (F) by genetic algorithms 
 
